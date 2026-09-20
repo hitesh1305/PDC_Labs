@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MSMPISDK</id>
+    <version>10.1.12498.52</version>
+    <authors>annadaly</authors>
+    <owners>annadaly</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/microsoft/Microsoft-MPI</projectUrl>
+    <description>MS-MPI enable you to develop and run MPI applications without having to set up an HPC Pack cluster.</description>
+    <releaseNotes>https://docs.microsoft.com/en-us/message-passing-interface/microsoft-mpi-release-notes</releaseNotes>
+    <copyright>Copyright 2022</copyright>
+    <tags>mpi msmpi native</tags>
+  </metadata>
+</package>
